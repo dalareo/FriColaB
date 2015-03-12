@@ -33,8 +33,8 @@ básicamente:
 ## Documentación continua integrada
 
 El proceso de documentación es muchas veces el talón de Aquiles de los proyectos, pues la estrategia de documentación
-tradicional exige un esfuerzo titánico en los primeros compases, precisamente allí donde las fuerzas, 
-aunque muy intensas, aún no están enfocadas pues el equipo de trabajo no está lo suficientemente consolidado para 
+tradicional exige un esfuerzo titánico en los primeros compases, precisamente allí donde las fuerzas,
+aunque muy intensas, aún no están enfocadas pues el equipo de trabajo no está lo suficientemente consolidado para
 producir contenidos de calidad. Es por ello que la adopción del modelo de **documentación continua** proporciona una mayor eficacia, al producir
 un volumen de documentación adecuado a la evolución del proyecto con un esfuerzo mucho menor por parte de los miembros
 del equipo de trabajo, pudiendo de esta manera liberar recursos para otras tareas vitales.
@@ -58,8 +58,14 @@ El usuario será la persona que edita o lee un documento. El usuario podrá trab
 
 Lenguajes candidatos: Markdown
 
+### Entorno de trabajo
+
+El usuario trabajará a través del navegador de internet utilizando un software que le permita editar texto enriquecido en el formato elegido y exportar el resultado al alojamiento remoto.
+
+Software candidato: StackEdit
+
 ### Generador de contenido web
 
-El contenido que el usuario cree se convertirá automáticamente a lenguaje web, a través de un generador de contenido estático.
+El contenido que el usuario cree y edite se convertirá automáticamente a lenguaje web (html), a través de un generador de contenido estático.
 
-Posibles candidatos: Hexo.io, Jekyll, Harpjs, Meteor.js
+Posibles candidatos: Harpjs
