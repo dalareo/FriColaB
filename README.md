@@ -58,7 +58,7 @@ El usuario será la persona que edita o lee un documento. El usuario podrá trab
 
 Lenguajes candidatos: Markdown
 
-### Entorno de trabajo
+### Entorno de trabajo - Front End
 
 El usuario trabajará a través del navegador de internet utilizando un software que le permita editar texto enriquecido en el formato elegido y exportar el resultado al alojamiento remoto.
 
@@ -66,6 +66,6 @@ Software candidato: StackEdit, EpicEditor
 
 ### Generador de contenido web
 
-El contenido que el usuario cree y edite se convertirá automáticamente a lenguaje web (html), a través de un generador de contenido estático.
+El contenido que el usuario cree y edite se convertirá automáticamente a lenguaje web (html), a través de un generador de contenido estático. Es interesante la posibilidad de exportar/importar el contenido desde un repositorio alojado en Github.
 
-Posibles candidatos: Harpjs
+Posibles candidatos: Harpjs, Jekyll
