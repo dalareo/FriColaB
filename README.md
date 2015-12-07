@@ -62,7 +62,7 @@ Lenguajes candidatos: Markdown
 
 El usuario trabajará a través del navegador de internet utilizando un software que le permita editar texto enriquecido en el formato elegido y exportar el resultado al alojamiento remoto.
 
-Software candidato: StackEdit, EpicEditor
+Software candidato: StackEdit (now Classeur), EpicEditor
 
 ### Generador de contenido web
 
