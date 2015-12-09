@@ -1,6 +1,6 @@
 # FriColaB
 
-Proyecto de repositorio abierto y colaborativo de iniciativas de emprendimiento con impacto social.
+**Proyecto** de repositorio abierto y colaborativo de iniciativas de emprendimiento con impacto social.
 
 ## Características principales
 
