@@ -1,4 +1,4 @@
-# FriColaB
+# TellGit
 
 **Proyecto** de repositorio abierto y colaborativo de iniciativas de emprendimiento con impacto social.
 
